@@ -14,8 +14,8 @@ return(
 
         <div className="text-gray-700 p-10 text-2xl ">
         <p>S Vignesh Pandiyan</p>
-        <p>Ph.no : 6300322159 </p>
-        <p>vigneshpandiyan08@gmail.com </p>
+        <p>Ph.no : 6200233159 </p>
+        <p>vigneshpandiyan04@gmail.com </p>
         </div>
         
         
